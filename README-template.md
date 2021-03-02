@@ -1,4 +1,4 @@
-# Put title of your app here
+# Android PetDog App
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
@@ -7,6 +7,7 @@
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+- Pet App showing list of Different Dogs with Their Details  Using Compose UI 
 
 
 ## :bulb: Motivation and Context
